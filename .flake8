@@ -1,0 +1,6 @@
+[flake8]
+max-line-length = 100
+extend-ignore = E266 E203
+exclude =
+    richgan/ext/*
+    richgan/metrics/plots/mpl_setup.py
